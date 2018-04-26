@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native';
-
+commit 1
 import App from './App';
 
 import MyApp from './MyApp';
